@@ -1,0 +1,21 @@
+h3{
+    color: rgb(16, 173, 82);
+    font-size: 20px;
+}
+
+h2{
+    color: rgb(19, 122, 163);
+    font-size: 35px;
+}
+
+h1{
+    color: darkred;
+    font-size: 45px;
+}
+p{
+    color: rgb(103, 12, 163);
+}
+
+li{
+    color: rgb(90, 4, 83);
+}
