@@ -1,0 +1,40 @@
+.container {
+    text-align: center; /* logo ortada olur*/
+
+}
+
+.searchArea{
+    width: 30%;
+    background-color: rgb(230, 41, 41);
+    position: relative; bottom: 1em; left: 5%; margin-top: 0;
+
+}
+
+.thirdDiv {
+    width: 20%;/* kutuların genişliği*/
+    height: 65px;/* kutuların uzunluğu*/
+    background-color: #c1c415;    
+    padding: 0px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    font-size: 13px;
+    position: relative; bottom: 1em;
+}
+
+.div-possetion{
+    width: 20%;
+    background-color: #9b044f;
+}
+
+.lastBox {
+    width: 20%;
+    align-items : right;
+    background-color: #c52e1a;
+}
+
+.greenArea {
+    width: 90%;
+    position: relative;
+    margin: auto;
+}
